@@ -1,0 +1,82 @@
+
+[INFO ] 2022-10-21 12:08:27.625 [main] TC_loging_001 - url open
+[WARN ] 2022-10-21 12:08:27.673 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-21 12:08:27.726 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-21 12:11:28.576 [main] TC_loging_001 - url open
+[WARN ] 2022-10-21 12:11:28.625 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-21 12:11:28.674 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-21 12:21:19.501 [main] TC_loging_001 - url open
+[WARN ] 2022-10-21 12:21:19.552 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-21 12:21:19.601 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-21 21:56:36.187 [main] TC_loging_001 - url open
+[WARN ] 2022-10-21 21:56:36.239 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-21 21:56:36.284 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-21 22:53:00.094 [main] TC_loging_001 - url open
+[WARN ] 2022-10-21 22:53:00.143 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-21 22:53:00.192 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 00:00:10.449 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 00:00:10.499 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 00:00:10.547 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 08:00:50.030 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 08:00:50.082 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 08:00:50.129 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 11:23:10.853 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 11:23:10.904 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 11:23:10.951 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:18:06.042 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:18:06.101 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:18:06.160 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:24:54.795 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:24:54.854 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:24:54.910 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:29:23.624 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:29:23.686 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:29:23.743 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:29:58.120 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:29:58.175 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:29:58.227 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:30:58.637 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:30:58.693 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:30:58.751 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:32:32.731 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:32:32.804 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:32:32.872 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:51:29.646 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:51:29.714 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:51:29.765 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 12:52:00.182 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 12:52:00.248 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 12:52:00.299 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 13:44:38.997 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 13:44:39.049 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 13:44:39.100 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 14:22:55.906 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 14:22:55.960 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 14:22:56.006 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 15:27:58.915 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 15:27:58.964 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 15:27:59.014 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 15:34:47.099 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 15:34:47.147 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 15:34:47.198 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 16:40:23.142 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 16:40:23.196 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 16:40:23.258 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 16:44:57.223 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 16:44:57.276 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 16:44:57.323 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 16:56:06.971 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 16:56:07.022 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 16:56:07.073 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 18:28:56.352 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 18:28:56.405 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 18:28:56.459 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 18:47:33.585 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 18:47:33.640 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 18:47:33.690 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 18:48:34.093 [main] TC_loging_001 - url open
+[WARN ] 2022-10-22 18:48:34.144 [main] TC_loging_001 - fail to send username
+[FATAL] 2022-10-22 18:48:34.203 [main] TC_loging_001 - no password created
+[INFO ] 2022-10-22 19:11:19.594 [main] TC_loging_001 - url open
+[INFO ] 2022-10-22 19:11:19.652 [main] TC_loging_001 - username provided
+[INFO ] 2022-10-22 19:11:19.704 [main] TC_loging_001 - password provided

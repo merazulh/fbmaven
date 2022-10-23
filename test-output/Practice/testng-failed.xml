@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Practice]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="mavenjava.util.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="validate facebook(failed)">
+    <classes>
+      <class name="test.TC_Loging_001">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="Testbd" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- test.TC_Loging_001 -->
+    </classes>
+  </test> <!-- validate facebook(failed) -->
+</suite> <!-- Failed suite [Practice] -->

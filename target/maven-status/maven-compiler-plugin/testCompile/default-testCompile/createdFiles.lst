@@ -1,0 +1,4 @@
+page\LogingPage.class
+test\BaseClass.class
+test\ReadConfig.class
+test\TC_loging_001.class
